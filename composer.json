@@ -1,0 +1,19 @@
+{
+    "name": "lambda/lambda",
+    "description": "Converts functions to lambdas",
+    "type": "library",
+    "keywords": [
+        "lambda",
+        "curry",
+        "currying",
+        "php"
+    ],    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Robert"            
+        }
+    ],
+    "autoload": {
+    }    
+}
