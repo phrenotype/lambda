@@ -1,7 +1,6 @@
 # Lambda
 
-This is a libray for converting both named and annonymous php functions into lambda expressions.  
-As such it can be curried and partially applied.
+This is a libray for converting both named and annonymous php functions into lambda expressions.  This the allows them to be curried and partially applied.
 
 ## Install  
 `composer require lambda/lambda`  
