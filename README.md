@@ -9,7 +9,7 @@
 This is a library for converting both named and annonymous php functions into lambda expressions.  This the allows them to be curried and partially applied.
 
 ## Install  
-`composer require lambda/lambda`  
+`composer require lmbd/lmbd`  
 
 ## Examples
 
