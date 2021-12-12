@@ -1,9 +1,9 @@
 # Lambda
-![github stars](https://img.shields.io/github/stars/paulrobert00/lambda?style=social)
+![github stars](https://img.shields.io/github/stars/jameshadleychase/lambda?style=social)
 ![packagist stars](https://img.shields.io/packagist/stars/lmbd/lmbd)
-![license](https://img.shields.io/github/license/paulrobert00/lambda)
-![contributors](https://img.shields.io/github/contributors/paulrobert00/lambda)
-![contributors](https://img.shields.io/github/languages/code-size/paulrobert00/lambda)
+![license](https://img.shields.io/github/license/jameshadleychase/lambda)
+![contributors](https://img.shields.io/github/contributors/jameshadleychase/lambda)
+![contributors](https://img.shields.io/github/languages/code-size/jameshadleychase/lambda)
 ![downloads](https://img.shields.io/packagist/dm/lmbd/lmbd)  
 
 This is a library for converting both named and annonymous php functions into lambda expressions.  This the allows them to be curried and partially applied.
