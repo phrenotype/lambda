@@ -1,5 +1,5 @@
 {
-    "name": "lmbd/lmbd",
+    "name": "chase/lambda",
     "description": "Converts functions to lambdas",
     "type": "library",
     "keywords": [
