@@ -15,6 +15,6 @@
         }
     ],
     "autoload": {
-        "files": ["lambda.php"]
+        "files": ["Chase/Lambda/lambda.php"]
     }    
 }
