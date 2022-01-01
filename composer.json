@@ -7,14 +7,19 @@
         "curry",
         "currying",
         "php"
-    ],    
+    ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Paul Robert"            
+            "name": "Paul Robert"
         }
     ],
     "autoload": {
-        "files": ["Chase/Lambda/lambda.php"]
-    }    
+        "files": [
+            "Chase/Lambda/lambda.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.0.0"
+    }
 }
