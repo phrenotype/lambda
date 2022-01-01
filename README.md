@@ -37,3 +37,6 @@ The key thing to remember is that once the numbers of arguments applied ***exact
 	echo $add(4)(5,2) // Ok
 	echo $add(4,5)(2); // Error
 	echo $add(4)(5)(2); //Error
+
+## Contact  
+**Email** : paul.contrib@gmail.com
