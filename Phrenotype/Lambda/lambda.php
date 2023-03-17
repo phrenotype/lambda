@@ -1,6 +1,6 @@
 <?php
 
-namespace Chase\Lambda;
+namespace Phrenotype\Lambda;
 
 class Lambda
 {

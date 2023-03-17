@@ -1,6 +1,6 @@
 {
-    "name": "chase/lambda",
-    "description": "Converts functions to lambdas",
+    "name": "phrenotype/lambda",
+    "description": "Converts php functions to lambdas",
     "type": "library",
     "keywords": [
         "lambda",
@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "files": [
-            "Chase/Lambda/lambda.php"
+            "Phrenotype/Lambda/lambda.php"
         ]
     },
     "require": {
